@@ -1,7 +1,5 @@
-```diff
-- This program is no longer working
-```
 # Cloudflare Captcha Bypass
+> ⚠️ **The cloudflare captcha bypass is no longer stable**
 
 ### Additional Informations
  - The proxies type are `http,https` ...
