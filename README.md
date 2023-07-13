@@ -1,5 +1,5 @@
 # Cloudflare Captcha Bypass
-> ⚠️ **The cloudflare captcha bypass is no longer stable**
+> ⚠️ **This cloudflare captcha bypass is no longer stable and no longer updated**
 
 ### Additional Informations
  - The proxies type are `http,https` ...
