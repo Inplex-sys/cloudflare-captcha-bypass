@@ -1,7 +1,3 @@
-################################################################################
-#       Made with ❤️ by github.com/inplex-sys <ion-deem-nutrient@duck.com>    #
-################################################################################
-
 import random
 import colored
 import time
