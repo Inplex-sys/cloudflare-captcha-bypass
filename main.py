@@ -48,7 +48,6 @@ class Target():
         driver.execute_script(f"window.open('{Main.GetArgs()[1]}')")
         driver.switch_to.window(driver.window_handles[1])
 
-        # WAITING BYPASS UAM
         BypassEvent = True
         while BypassEvent:
             time.sleep(6)
