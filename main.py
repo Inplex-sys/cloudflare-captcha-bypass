@@ -1,5 +1,5 @@
 ################################################################################
-#       Made with ❤️ by github.com/inplex-sys <Inplex-sys@protonmail.ch>       #
+#       Made with ❤️ by github.com/inplex-sys <ion-deem-nutrient@duck.com>    #
 ################################################################################
 
 import random
